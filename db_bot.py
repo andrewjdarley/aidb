@@ -81,6 +81,7 @@ strategies = {
 }
 
 questions = [
+    "Which nation won the most battles",
     "What was the bloodiest battle of the war?",
     "Which nations were part of each alliance?", 
     "What battles did the Ottoman Empire participate in?",
